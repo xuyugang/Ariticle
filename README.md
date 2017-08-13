@@ -19,3 +19,8 @@ Permissions 0670 for '/home/ayo/.ssh/id_rsa' are too open.
 ```
 chmod 700 /home/ayo/.ssh/id_rsa
 ```
+
+生成git ssh key
+```
+ssh-keygen -t rsa -C "magnetic@qq.com"
+```
