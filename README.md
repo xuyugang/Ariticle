@@ -24,3 +24,7 @@ chmod 700 /home/ayo/.ssh/id_rsa
 ```
 ssh-keygen -t rsa -C "magnetic@qq.com"
 ```
+
+pro 2git
+
+https://www.gitbook.com/book/bingohuang/progit2/details
