@@ -28,3 +28,6 @@ ssh-keygen -t rsa -C "magnetic@qq.com"
 pro 2git
 
 https://www.gitbook.com/book/bingohuang/progit2/details
+
+12个git实战建议和技巧
+http://m.csdn.net/article/2012-12-11/2812673-12-git-tips
