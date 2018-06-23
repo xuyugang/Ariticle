@@ -18,6 +18,14 @@ plugins
 ## 考虑使用的插件
 1. stackoverflow
 
+## 配置
+*1. 配置换行
+```
+IDEA的设置File -> Settings -> Editor -> Code Style -> Line separator 选择：Unix
+```
+*2. 
+
+
 
 
 
