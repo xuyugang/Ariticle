@@ -11,6 +11,12 @@ rebase
 plugins
 
 
+# 插件
+1. BashSupport
+2. Key Promoter
+
+## 考虑使用的插件
+1. stackoverflow
 
 
 
