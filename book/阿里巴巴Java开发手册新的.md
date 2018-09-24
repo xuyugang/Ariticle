@@ -58,6 +58,16 @@
 12. ok。不同逻辑、不他那个语义、不同业务的代码之间插入一个空行。
 
 （四）OOP规约
+1. part.
+2. ok.
+3. part.
+4. part.
+5. ok.
+6. part. 推荐使用Jdk7的java.util.Objects#equals
+7. part.
+8. ok. pojo,rpc使用包装类，局部变量使用基本类型。
+9. part。 DO、DTO、VO等Pojo，不需要任何属性默认值。
+10. part。序列号类新增属性，不能修改serialVersionUID，避免反序列失败。
 
 
 
